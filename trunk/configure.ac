@@ -2,7 +2,7 @@
 # Process this file with autoconf to produce a configure script.
 
 AC_PREREQ(2.61)
-AC_INIT(hparser, 1.0.0, [Kevin P. Barry (ta0kira@users.sourceforge.net)])
+AC_INIT(hparser, 1.0.1, [Kevin P. Barry (ta0kira@users.berlios.de)])
 AM_INIT_AUTOMAKE
 AC_CONFIG_FILES([Makefile include/Makefile src/Makefile])
 AC_CONFIG_SRCDIR([include/hparser/version.hpp])
